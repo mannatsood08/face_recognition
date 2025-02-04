@@ -85,5 +85,5 @@ streamlit run app.py
 This project is open-source and available under the MIT License.
 
 ## Contributors
-- **Your Name** (Your Email / GitHub Profile)
+- Mannat Sood (soodmannat16@gmail.com / mannatsood08)
 
