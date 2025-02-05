@@ -86,4 +86,5 @@ This project is open-source and available under the MIT License.
 
 ## Contributors
 - Mannat Sood (soodmannat16@gmail.com / mannatsood08)
+![Screenshot 2025-02-05 134240](https://github.com/user-attachments/assets/11f6295c-78cd-4699-a286-a3a464eb8aa6)
 
